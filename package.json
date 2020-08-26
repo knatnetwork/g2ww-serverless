@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "g2ww-serverless",
+  "version": "1.0.0",
+  "description": "Proxy Grafana Webhook alert to WeChat Work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Nova Kwok",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
