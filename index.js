@@ -5,7 +5,7 @@ addEventListener('fetch', event => {
   <!doctype html>
   <html lang="en">
       <head>
-          <title>G2WW</title>
+          <title>G2WW (Grafana 2 Wechat Work) Serverless Edition</title>
   
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -449,7 +449,7 @@ addEventListener('fetch', event => {
               }
   
               .md\:w-1\/2 {
-                  width: 50%;
+                  width: 20%;
               }
           }
   
@@ -484,16 +484,16 @@ addEventListener('fetch', event => {
 
                       </p>
   
-                      <a href="https://github.com/n0vad3v/g2ww">
+                      <a href="https://github.com/n0vad3v/g2ww-serverless">
                           <button class="bg-transparent text-grey-darkest font-bold uppercase tracking-wide py-3 px-6 border-2 border-grey-light hover:border-grey rounded-lg">
-                              GitHub: G2WW
+                              GitHub: g2ww-serverless
                           </button>
                       </a>
                   </div>
               </div>
   
               <div class="relative pb-full md:flex md:pb-0 md:min-h-screen w-full md:w-1/2">
-                  <div style="background-image: url(https://blog-assets.nova.moe/bg.png);" class="absolute pin bg-cover bg-no-repeat md:bg-left lg:bg-center">
+                  <div style="background-image: url(https://blog-assets.nova.moe/g2ww.jpg);" class="absolute pin bg-cover bg-no-repeat md:bg-left lg:bg-center">
   </div>
               </div>
           </div>

@@ -3,7 +3,7 @@
 
 Grafana doesn't support push alert to WeChat Work(企業微信) by it's design(They even close my PR: [Add a new notifier : WeChat Work（企業微信） #26109](https://github.com/grafana/grafana/pull/26109)), this is a small adapter for supporting this.
 
-This is the serverless-edition of [n0vad3v/G2WW](https://github.com/n0vad3v/g2ww).
+This is the serverless-edition of [n0vad3v/G2WW](https://github.com/n0vad3v/g2ww), now it's in 「Staff Picks」 of [Built with Workers](https://workers.cloudflare.com/built-with).
 
 ## Installation
 
