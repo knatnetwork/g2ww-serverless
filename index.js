@@ -479,7 +479,7 @@ addEventListener('fetch', event => {
                           <li>Right click on the group name on left side panel of the client.</li>
                           <li>Click "Add Group Robot" in the pop menu, then create a robot.</li>
                           <li>After creation, a "Webhook URL" will display, if it doesn't, just click the robot icon and it will display, copy key from <pre>https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=YOUR_KEY</pre></li>
-                          <li>In Grafana, Create a Webhook notification, Paste url with: <pre>https://g2ww-serverless.nova.moe/YOUR_KEY</pre>.</li>
+                          <li>In Grafana, Create a Webhook notification, Paste url with: <pre>https://g2ww.knat.network/YOUR_KEY</pre>.</li>
                       </ol>
 
                       </p>
