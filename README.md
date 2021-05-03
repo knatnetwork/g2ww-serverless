@@ -23,7 +23,7 @@ For instance, the webhook address is `https://qyapi.weixin.qq.com/cgi-bin/webhoo
 
 In the configuration above, we need to specify the address like this:
 
-`https://g2ww-serverless.nova.moe/e28dde4c-1998-0002-0018-114514114514`
+`https://g2ww.knat.network/e28dde4c-1998-0002-0018-114514114514`
 
 ![](./img/grafana.png)
 
